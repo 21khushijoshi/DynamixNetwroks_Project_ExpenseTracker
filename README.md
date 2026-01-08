@@ -32,10 +32,10 @@ The application will launch a window titled "Expense Tracker".
 
 # Categories Included
 
-Food
-Rent
-Entertainment
-Transport
-Utilities
+Food,
+Rent,
+Entertainment,
+Transport,
+Utilities,
 Other
 
